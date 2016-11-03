@@ -1,0 +1,30 @@
+body{
+    background: url("pic/fbi_bg.jpg") no-repeat fixed;
+    background-position: center;
+
+}
+.main{
+    width: 100%;
+}
+.heading{
+    text-transform: uppercase;
+    text-shadow: 5px 16px 10px ; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    word-spacing: 2px;
+    text-align: center;
+    font-size: 100px;
+}
+ul li{
+    display: inline;
+    margin: 20px;
+    font-size: 30px;
+    padding: 10px;
+    letter-spacing: 5px;
+    word-spacing: 2px;
+}
+a{
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    
+}

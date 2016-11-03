@@ -1,0 +1,35 @@
+.Table{
+    width: 15%;
+    font-size: 25px;
+    margin: auto;
+    padding: 10px;
+
+    border: double #c37a36 6px;
+   
+}
+body{
+     background: url("pic/table.png") fixed no-repeat;
+}
+h1{
+    text-align: center;
+    color: sandybrown;
+    font-size: 75px;
+}
+.fac{
+    font-size: 50px;
+    border: double sandybrown 10px;
+    width: 50%;
+    padding: 8px;
+    margin: auto;
+    text-align: center;
+}
+pre{
+    color:black;
+    font-size: 15px;
+    font-weight: bolder;
+    width: 362px;
+    height: 535px;
+    padding-left: 99px;
+    margin: auto;
+    border: double black 7px;
+}
